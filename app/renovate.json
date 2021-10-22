@@ -1,0 +1,12 @@
+{
+    "branchPrefix": "deps/",
+    "extends": [
+        "config:base"
+    ],
+    "labels": [
+        "dependencies"
+    ],
+    "prConcurrentLimit": 5,
+    "rebaseWhen": "never",
+    "reviewers": []
+}

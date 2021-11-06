@@ -1,7 +1,3 @@
 {
-  "extends": [
-    "config:base"
-  ],
-  "prHourlyLimit": 50,
-  "prConcurrentLimit": 50
+  "enabledManagers": ["gradle"]
 }
